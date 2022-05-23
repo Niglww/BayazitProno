@@ -1,0 +1,29 @@
+h1
+{
+	color: black;
+}
+
+p
+{
+	color: skyblue;
+}
+
+
+
+body
+
+{
+	width: 1200px;
+	margin:0 auto;
+	background-image: url(https://cap.img.pmdstatic.net/fit/https.3A.2F.2Fi.2Epmdstatic.2Enet.2Fcap.2F2021.2F08.2F05.2Fbf32f5c6-6c54-4a45-8659-d8d61e1b5637.2Ejpeg/1200x630/background-color/ffffff/focus-point/340%2C400/quality/70/cr/wqkgSWdvciBMaW5rL0Fkb2JlIFN0b2NrIC8gQ0FQSVRBTA%3D%3D/sil-sagissait-dun-business-normal-le-foot-francais-serait-en-faillite-1411474.jpg);
+
+}
+
+#carte
+{
+	width: 800px;
+	margin:0 auto;
+	background-image: url(https://media.foot-national.com/photo_article/620094/220813/1200-L-bourges-foot-un-joueur-gravement-blesse-le-match-amical-arrete.jpg);
+	text-align: center;
+	align-content: center;
+}
